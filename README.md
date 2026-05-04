@@ -3,11 +3,11 @@
 A comprehensive, production-ready Java driver for the **DFRobot HuskyLens Gen1** AI Camera, specifically designed for the FIRST Tech Challenge (FTC) platform and the REV Control Hub.
 
 ## Development Information
-**Developer**: Arthur LIU
-**Collaborating Teams**: 
-    *   **FTC Team 25787**
-    *   **FTC Team 27570**
-*   **Official Sponsor**: Proudly sponsored by **DFRobot**, the creators of HuskyLens.
+- **Developer**: Arthur LIU
+- **Collaborating Teams**: 
+**FTC Team 25787**
+**FTC Team 27570**
+-**Official Sponsor**: Proudly sponsored by **DFRobot**, the creators of HuskyLens.
 
 ## Features
 - **Full Protocol Support**: Implements all commands from the official HuskyLens Protocol (v0.5.1).
