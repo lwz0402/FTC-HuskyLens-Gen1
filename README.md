@@ -23,12 +23,12 @@ Java driver for **DFRobot HuskyLens Gen1** camera designed specifically for the 
 ## Tips:
 - Only the following files/folders are related to this driver
 - **Essential files**
-- huskylens(TeamCode/src/main/java/org/firstinspires/ftc/teamcode/huskylens):This folder defines the HuskyLens driver class, and if deleted, this driver cannot be referenced.
-- HuskyLens.java(TeamCode/src/main/java/org/firstinspires/ftc/teamcode/huskylens/HuskyLens.java):This file contains the core code of HuskyLens driver. If deleted, this driver will not function properly.
+- **huskylens**(TeamCode/src/main/java/org/firstinspires/ftc/teamcode/huskylens):This folder defines the HuskyLens driver class, and if deleted, this driver cannot be referenced.
+- **HuskyLens.java**(TeamCode/src/main/java/org/firstinspires/ftc/teamcode/huskylens/HuskyLens.java):This file contains the core code of HuskyLens driver. If deleted, this driver will not function properly.
 - **Optional files**
-- HuskyLensMasterSample.java(TeamCode/src/main/java/org/firstinspires/ftc/teamcode/huskylens/HuskyLensMasterSample.java):This document introduces the calling methods for all functions.
-- README.md(TeamCode/src/main/java/org/firstinspires/ftc/teamcode/huskylens/README.md):This document introduces the basic information and functions of this driver.
-- AirTagLauncherOpMode.java(TeamCode/src/main/java/org/firstinspires/ftc/teamcode/AirTagLauncherOpMode.java):This document demonstrates the functionality of using HuskyLens' Airtag recognition feature for shooting.
+- **HuskyLensMasterSample.java**(TeamCode/src/main/java/org/firstinspires/ftc/teamcode/huskylens/HuskyLensMasterSample.java):This document introduces the calling methods for all functions.
+- **README.md**(TeamCode/src/main/java/org/firstinspires/ftc/teamcode/huskylens/README.md):This document introduces the basic information and functions of this driver.
+- **AirTagLauncherOpMode.java**(TeamCode/src/main/java/org/firstinspires/ftc/teamcode/AirTagLauncherOpMode.java):This document demonstrates the functionality of using HuskyLens' Airtag recognition feature for shooting.
 
 ---
 
