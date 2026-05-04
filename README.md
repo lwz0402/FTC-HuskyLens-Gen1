@@ -3,10 +3,7 @@
 Java driver for **DFRobot HuskyLens Gen1** camera designed specifically for the FIRST Technology Challenge (FTC) platform and REV robot control.
 
 ## Development Information
-- **Developer**: Arthur LIU
-- **Collaborating Teams**: 
-**FTC Team 25787**
-**FTC Team 27570**
+- **Developer**: Arthur LIU from First Tech Challenge Team #25787 & #27570
 - **Official Sponsor**: Proudly sponsored by **DFRobot**, the creators of HuskyLens.
 
 ## Features
