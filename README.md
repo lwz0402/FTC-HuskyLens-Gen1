@@ -14,6 +14,23 @@ Java driver for **DFRobot HuskyLens Gen1** camera designed specifically for the 
 - **Advanced Metadata**: Access frame numbers, counts, and learned object statistics.
 - **SD Card Management**: Save/Load AI models and capture screenshots directly from code.
 
+## Purchase
+This project utilizes hardware and open-source resources provided by DFRobot.
+- DFRobot Official Website: [https://www.dfrobot.com/](https://www.dfrobot.com/)(Applicable to countries and regions other than Chinese Mainland); [https://www.dfrobot.com.cn/](https://www.dfrobot.com.cn/)(Applicable to Chinese Mainland)
+- DFRobot GitHub: [https://github.com/DFRobot/](https://github.com/DFRobot/)
+
+- **HuskyLens Gen1**
+- Product Page and Purchase Link (Official): [https://www.dfrobot.com/product-1922.html](https://www.dfrobot.com/product-1989.html)(Applicable to countries and regions other than Chinese Mainland); [https://www.dfrobot.com.cn/goods-2050.html](https://www.dfrobot.com.cn/goods-2050.html)(Applicable to Chinese Mainland)
+- Reference Price: 34.9 USD; 249 CNY; 29.9 EUR; 25.9 GBP; 5490 JPY; 47.9 CAD; 48.9 AUD; 279 HKD
+- Documentation: [https://wiki.dfrobot.com/sen0305/](https://wiki.dfrobot.com/sen0305/)(Applicable to countries and regions other than Chinese Mainland); [https://wiki.dfrobot.com.cn/_SKU_SEN0305_Gravity__HUSKYLENS_%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%91%84%E5%83%8F%E5%A4%B4](https://wiki.dfrobot.com.cn/_SKU_SEN0305_Gravity__HUSKYLENS_%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%91%84%E5%83%8F%E5%A4%B4)(Applicable to Chinese Mainland)
+> HuskyLens Gen1 is an easy-to-use artificial intelligence visual sensor with six major AI functions: facial recognition, object recognition, object tracking, line tracking, color recognition, and label recognition. Adopting high-performance Kendryte K210 AI processor, it runs fast and has high recognition accuracy. The biggest advantage lies in the ease of one click learning, which can complete AI model training without complex algorithm training or code writing. The onboard 2.0-inch IPS display allows for a WYSIWYG debugging process, while providing two communication interfaces: UART and I2C. It can easily connect to mainstream controllers such as Arduino, Raspberry Pi, LattePanda, micro: bit, etc., providing powerful offline visual recognition capabilities for projects such as robots, intelligent access control, and autonomous driving cars.
+
+- **HuskyLens Gen2**
+- Product Page and Purchase Link (Official): [https://www.dfrobot.com/product-2995.html](https://www.dfrobot.com/product-2995.html)(Applicable to countries and regions other than Chinese Mainland); [https://www.dfrobot.com.cn/goods-4198.html](https://www.dfrobot.com.cn/goods-4198.html)(Applicable to Chinese Mainland)
+- Reference Price: 84.9 USD; 499 CNY; 72.9 EUR; 62.9 GBP; 13490 JPY; 115.9 CAD; 118.9 AUD; 669 HKD
+- Documentation: [https://wiki.dfrobot.com/sen0305/](https://wiki.dfrobot.com/sen0305/)(Applicable to countries and regions other than Chinese Mainland); [https://wiki.dfrobot.com.cn/_SKU_SEN0638_Gravity_HUSKYLENS_2_AI_Camera_Vision_Sensor](https://wiki.dfrobot.com.cn/_SKU_SEN0638_Gravity_HUSKYLENS_2_AI_Camera_Vision_Sensor)(Applicable to Chinese Mainland)
+> HuskyLens Gen2 is a simple and easy-to-use AI visual sensor with diverse gameplay. It uses a 6TOPS computing power dedicated AI chip and comes with over 20 pre installed AI models for face recognition, object detection, object classification, pose recognition, instance segmentation, and more. At the same time, users can also deploy self trained models to teach Erha how to recognize any target object through image recognition. Perfectly compatible with mainstream controllers such as Arduino, micro: bit, ESP32, UNIHIKER (M10, K10), control board, Raspberry Pi, etc., providing versatile visual solutions for diverse scenarios such as intelligent robots, industrial automation, education and research.
+
 ## Installation
 1. Copy the `HuskyLens.java` file into your `TeamCode` folder (suggested package: `org.firstinspires.ftc.teamcode.huskylens`).
 2. In the FTC Driver Station app, configure your I2C device:
